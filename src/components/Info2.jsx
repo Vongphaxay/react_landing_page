@@ -10,9 +10,6 @@ function Info2() {
             <div className='w-1/2'>
                 <img src="https://media.istockphoto.com/id/2209724314/photo/computer-on-desk-in-office.jpg?s=612x612&w=0&k=20&c=IQFOczMCqMs8wyuy7R6vccLqdqh5MU9-PPqtCSSnl7E=" alt="" className='w-full h-auto ml-4 rounded-lg' />
             </div>
-            <div className='w-1/2'>
-                <img src="https://media.istockphoto.com/id/2209724314/photo/computer-on-desk-in-office.jpg?s=612x612&w=0&k=20&c=IQFOczMCqMs8wyuy7R6vccLqdqh5MU9-PPqtCSSnl7E=" alt="" className='w-full h-auto ml-4 rounded-lg' />
-            </div>
         </div>
     )
 }
